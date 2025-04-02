@@ -1,0 +1,35 @@
+site_name: GitHub Settings Manager Documentation
+repo_url: https://github.com/settings-manager/settings-manager
+theme:
+  name: material
+  palette:
+  - scheme: default
+    primary: black
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to dark mode
+  - scheme: slate
+    primary: black
+    toggle:
+      icon: material/lightbulb
+      name: Switch to light mode
+  logo: assets/logo-white.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.footer
+    - content.code.copy
+plugins:
+  - glightbox:
+      draggable: false
+      background: none
+      shadow: false
+  - search
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+nav:
+    - Settings Manager: 'index.md'
