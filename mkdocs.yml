@@ -33,4 +33,6 @@ markdown_extensions:
   - pymdownx.snippets
 nav:
     - Settings Manager: 'index.md'
-    - 'configuration.md'
+    - Configuration:
+      - 'configuration/general.md'
+      - 'configuration/labels.md'
