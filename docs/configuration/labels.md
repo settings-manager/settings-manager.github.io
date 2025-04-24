@@ -7,9 +7,8 @@
     </div>
 </figure>
 
-## Add new label
+## Example configuration
 
-Example:
 ```yaml
 labels:
   - name: My label
