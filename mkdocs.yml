@@ -33,6 +33,7 @@ markdown_extensions:
   - pymdownx.snippets
 nav:
     - Settings Manager: 'index.md'
+    - Getting Started: 'getting-started.md'
     - Configuration:
       - 'configuration/general.md'
       - 'configuration/collaborators.md'
