@@ -37,4 +37,5 @@ nav:
     - Configuration:
       - 'configuration/general.md'
       - 'configuration/collaborators.md'
+      - 'configuration/branches.md'
       - 'configuration/labels.md'
