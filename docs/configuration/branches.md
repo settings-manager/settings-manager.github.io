@@ -1,4 +1,4 @@
-# Labels
+# Branches
 
 <figure markdown>
     <div align="center">
